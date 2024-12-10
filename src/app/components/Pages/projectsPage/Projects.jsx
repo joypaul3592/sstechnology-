@@ -27,16 +27,16 @@ export default function Projects() {
         {
             id: 2,
             imgSrc: project2,
-            title: 'IQ Social',
+            title: 'Mobile Shop',
             Animation: 'fade-up',
-            livelink: 'https://iqsonet.com/'
+            livelink: 'https://mobile-dokan.vercel.app/'
         },
         {
             id: 3,
             imgSrc: project3,
-            title: 'iQ Barter',
+            title: 'Barta',
             Animation: 'fade-down',
-            livelink: 'https://www.iqbarter.com/'
+            livelink: 'https://barta.vercel.app/'
         },
         {
             id: 4,
@@ -48,9 +48,9 @@ export default function Projects() {
         {
             id: 5,
             imgSrc: project5,
-            title: 'Medullas',
+            title: 'brainsy ai',
             Animation: 'fade-up',
-            livelink: 'https://leafy-hamster-123e43.netlify.app/'
+            livelink: 'https://brainsy.ai/'
         },
         {
             id: 6,

@@ -20,7 +20,7 @@ export default function Footer() {
                 </div>
             </div>
             <Row />
-            <span className="block text-sm text-gray-500 text-center dark:text-gray-400 mt-3"><span className=" text-primary">© </span>2023 <span className=" text-primary">BongoBrain</span> . All Rights Reserved.</span>
+            <span className="block text-sm text-gray-500 text-center dark:text-gray-400 mt-3"><span className=" text-primary">© </span>2023 <span className=" text-primary">SStechnology  </span> . All Rights Reserved.</span>
         </footer >
     )
 }

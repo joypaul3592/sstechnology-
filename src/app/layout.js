@@ -8,8 +8,8 @@ import "slick-carousel/slick/slick-theme.css";
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "BrongoBrain - A Tech Solutions",
-  description: "Where Ideas Meet Impeccable Execution - Welcome to BrongoBrain",
+  title: "SStechnology - A Tech Solutions",
+  description: "Where Ideas Meet Impeccable Execution - Welcome to SStechnology",
 };
 
 export default function RootLayout({ children }) {

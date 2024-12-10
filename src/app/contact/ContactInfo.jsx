@@ -9,7 +9,7 @@ export default function ContactInfo() {
             id: 1,
             type: "Email",
             description: "Our friendly team is here to help.",
-            value: "bongobrain24@gmail.com",
+            value: "nfo@sstechnology.com.au",
             icon: "GoMail",
             Animation: 'fade-up'
         },
@@ -17,7 +17,7 @@ export default function ContactInfo() {
             id: 2,
             type: "Office",
             description: "Come say hello at our office HQ.",
-            value: "Banashree E-block, Road-05, House-42",
+            value: "26-30 Hassall Street, Parramatta, NSW 2150",
             icon: "GoLocation",
             Animation: 'fade-down'
         },
@@ -25,13 +25,13 @@ export default function ContactInfo() {
             id: 3,
             type: "Phone",
             description: "Mon-Fri from 8am to 5pm.",
-            value: "+8801789247373",
+            value: "0480615875",
             icon: "IoCallOutline",
             Animation: 'fade-up'
         }
     ]
     return (
-        <div className="w-10/12 mx-auto flex flex-wrap items-center lg:justify-between justify-center gap-12 my-10 py-10 xl:px-10">
+        <div className="w-10/12 mx-auto flex flex-wrap items-center  justify-center gap-12 my-10 py-10 xl:px-10">
             {
                 contactInfo?.map((contact) => <div key={contact?.id} data-aos={contact?.Animation} className="flex flex-col items-center justify-center text-center">
                     <span className="p-3 text-xl  text-primary  rounded-full bg-[#748e6324] ] ">
